@@ -1,9 +1,8 @@
 ![Alt text](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif "Github Banner")
 
 # 💫 About Me:
-Hi/Hallo/Olá,<br>I'm Luiz, I am a Computer Science student at the Federal University of Campina Grande in Brazil<br>🌱 I'm currently learning more about functional and logical programming<br>💬 Feel free to ask me about anything!
+Hi/Hallo/Oi,<br>I'm Luiz, I am a Computer Science student at the Federal University of Campina Grande, Brazil<br>🌱 I'm currently learning more about functional and logical programming<br>💬 Feel free to ask me about anything
 
-Computers are the closest things we have to actual magic. A rock that we taught how to "think"? Who would have believed that was possible?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bronzeadonetoluiz)
@@ -14,8 +13,3 @@ Computers are the closest things we have to actual magic. A rock that we taught 
 ![](https://github-readme-stats.vercel.app/api?username=LuizBronzeadoNeto&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LuizBronzeadoNeto&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBronzeadoNeto&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=LuizBronzeadoNeto&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
