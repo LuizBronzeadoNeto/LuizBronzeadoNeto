@@ -1,4 +1,4 @@
-![Alt text](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif "Github Banner")
+![githubBanner](https://github.com/user-attachments/assets/5290ef35-4262-4367-aacf-f097a55ee930)
 
 # 💫 About Me:
 Hi/Hallo/Oi,<br>I'm Luiz, I am a Computer Science student at the Federal University of Campina Grande, Brazil<br>🌱 I'm currently learning more about functional and logical programming<br>💬 Feel free to ask me about anything
