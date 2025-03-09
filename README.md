@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hi/Hallo/Oi,<br>I'm Luiz, I am a Computer Science student at the Federal University of Campina Grande, Brazil<br>🌱 I'm currently learning more about functional and logical programming<br>💬 Feel free to ask me about anything
 
+A computer is probably the closest thing to magic in our world. A rock we taught how to "think"? Who would have thought that was possible?
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bronzeadonetoluiz)
