@@ -14,6 +14,3 @@ A computer is probably the closest thing to magic in our world. A rock we taught
 ![](https://github-readme-stats.vercel.app/api?username=LuizBronzeadoNeto&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LuizBronzeadoNeto&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBronzeadoNeto&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
